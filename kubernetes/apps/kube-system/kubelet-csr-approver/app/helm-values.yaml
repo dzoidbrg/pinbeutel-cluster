@@ -1,0 +1,3 @@
+---
+providerRegex: ^(main01)$
+bypassDnsResolution: true
